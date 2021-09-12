@@ -1,0 +1,10 @@
+.example-header-image {
+    background-image: url('../../../../assets/exam.png');
+    background-size: cover;
+  }
+.activeColor{
+  background-color: lightgreen;
+}
+.nonActiveColor{
+  background-color: lightgrey;
+}
